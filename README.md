@@ -13,5 +13,7 @@ Una estructura (struct) es una agrupación lógica de variables de diferentes ti
 
 En proyectos de robótica, una estructura puede representar a un robot completo, almacenando en un solo lugar su estado de activación, posiciones de ejes, puertos de interfaz y velocidades.
 
+<img width="864" height="725" alt="image" src="https://github.com/user-attachments/assets/5b568330-cb99-4748-8d97-ff80a8f76cd0" />
+
 # Dato Clave: 
 Las estructuras fueron el paso previo fundamental antes de la llegada de la Programación Orientada a Objetos (OOP) y las clases, permitiendo un manejo de datos mucho más eficiente en sistemas embebidos.
